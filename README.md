@@ -16,3 +16,4 @@ or we can't guarantee critical optimization and, of course, the solution.
 
 # Algs-8-puzzle
 A couple of assignments from Coursera Algorithms Part I course.
+http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
